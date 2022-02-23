@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Britain's warning-piece: or, Christ's tears over Jerusalem</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41881</idno>
+            <idno type="STC">Wing G1670A</idno>
+            <idno type="STC">ESTC R215550</idno>
+            <idno type="EEBO-CITATION">99827400</idno>
+            <idno type="PROQUEST">99827400</idno>
+            <idno type="VID">31818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1908:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Britain's warning-piece: or, Christ's tears over Jerusalem</title>
+               </titleStmt>
+               <extent>21, [3] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackery at the Angel in Duck Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1688/1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title page woodcut.</note>
+                  <note>Place and year of publication supplied by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Mercy --  Early works to 1800.</term>
+               <term>Warnings --  Early works to 1800.</term>
+               <term>War --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31818:1" rendition="simple:additions"/>
+            <p>Great <hi>BRITAIN</hi>'s <hi>Warning-piece;</hi> OR, Chriſt's TEARS over JERUSALEM.</p>
+            <figure>
+               <figDesc>a priest preaches from a pulpit with memento mori, a skull and hourglass, to a standing congregation</figDesc>
+            </figure>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>Printed for <hi>W. Thackery</hi> at the <hi>Angel</hi> in <hi>Duck lane.</hi>
+            </p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:31818:2"/>
+            <p>
+               <figure>
+                  <figDesc>an angel writes with a quill pen, an open book on either side</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:31818:2" rendition="simple:additions"/>
+            <p>Great <hi>BRITAIN</hi>'s <hi>Warning-piece;</hi> OR, Chriſt's Tears over <hi>JERUSALEM.</hi>
+            </p>
+            <p>Being a ſerious Exhortation to a timely Repentance, thereby to avoid the Judgments that hang over our Heads. VVith powerfull Motives to forſake our Sins and turn unto the Lord whilſt it is to day, and not put off our Repentance from time to time.</p>
+            <p>With ſerious Conſiderations and Reflections upon thoſe that have neglected the Opportunity put into their hands; and the miſeries that have befallen Nations and People, <hi>&amp;c.</hi>
+            </p>
+            <p>With cordial Conſolations for the penitent Sinner, and a Prayer ſutable to the occaſion: worthy the peruſal of all thoſe that are deſirous to be inſtructed in the ways of Truth.</p>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>Printed for <hi>W. Thackeray</hi> at the <hi>Angel</hi> in <hi>Duck-lane</hi> near <hi>Weſt-ſmithfield.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="warning">
+            <pb facs="tcp:31818:3"/>
+            <pb n="5" facs="tcp:31818:3"/>
+            <head>Great <hi>BRITAIN</hi>'s WARNING-PIECE; OR, Chriſt's Tears over <hi>Jeruſalem.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Luke, 19.42.</hi>
+                  </bibl>
+                  <p>And Jeſus wept over <hi>Jeruſalem</hi> ſaying, O <hi>Jeruſalem Jeruſalem!</hi> hadſt thou known but in this thy day the things that belonged unto thy peace, but now they are hidden from thy eyes, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>BY this Text we may plainly ſee, tho' Sin is abhorred in the Sight of God, how loath he is to deſtroy thoſe that Sin againſt him, but rather ſpares them in Mercy, that they may recover their blind<g ref="char:EOLhyphen"/>neſs, and ſee the Error of their way before it be too late; that ſo he may be juſtified in his doings, and that man may have no ex<g ref="char:EOLhyphen"/>cuſe
+<pb n="6" facs="tcp:31818:4"/>he was not timely warned to flee from the wrath to come; he even in the former Ages of the World left himſelf not without a Witneſs, but all along by holy Men inſpi<g ref="char:EOLhyphen"/>red. Let ſinfull <hi>Iſrael</hi> know, from time to time, that he alone was their Strength and the Rock of their Salvation, promiſing to protect and deliver them from all their Ene<g ref="char:EOLhyphen"/>mies, if they would wholly caſt themſelves and rely upon him: yet alaſs! we ſee how often, notwithſtanding the many benefits that they had received, not only in being de<g ref="char:EOLhyphen"/>livered from <hi>Egyptian</hi> Bondage, and preſer<g ref="char:EOLhyphen"/>ved ſo many years in a barren Wilderneſs, fed by the hand of Heaven; and there be<g ref="char:EOLhyphen"/>ing Eye and Ear-witneſs of ſuch Wonders as in the very Relation amaze Mankind, but brought into a Land that flowed with Milk and Honey, an earthly Paradiſe abounding with all things neceſſary for the uſe and be<g ref="char:EOLhyphen"/>nefit of the Sons of Men. They forſook the Fountain of living Water, and hewed out to themſelves Ciſterns that would hold no water; even forſaking that God, who alone was their Rock and their Strength, to fol<g ref="char:EOLhyphen"/>low the vain Imaginations of their own Hearts, till by often provoking him to an<g ref="char:EOLhyphen"/>ger, they tired his patience and long ſuffe<g ref="char:EOLhyphen"/>ring; till they in a manner conſtrained him
+<pb n="7" facs="tcp:31818:4"/>to let looſe his fury againſt them; to give the mercyleſs Enemy advantage over them, and the Spoiler a Power to ſpoil and oppreſs them; to make them wander in ſtrange Lands under ſevere Captivities, whilſt o<g ref="char:EOLhyphen"/>thers poſſeſt the Fruits of their Labour: yet when they humbled themſelves and cry<g ref="char:EOLhyphen"/>ed to him he heard them, and became their Deliverer by ſuch unexpected and miracu<g ref="char:EOLhyphen"/>lous means, that even themſelves ſtood a<g ref="char:EOLhyphen"/>mazed at them. When again, like <hi>Jeſſurun,</hi> they no ſooner wax'd fat, but they forgot their Deliverer, and kicked againſt their Maker; and by hardning their Hearts in Sin became not only ſo raſh and unadviſed to kill the Servants ſent to them by the Lord of the Vineyard, but in the end proceeded to kill the Heir even the Lord of Life, think<g ref="char:EOLhyphen"/>ing themſelves then ſecure: but alaſs, mi<g ref="char:EOLhyphen"/>ſtaken and wretched Men! they mainly fail<g ref="char:EOLhyphen"/>ed in their expectation, as in the <hi>11th.</hi> of <hi>Mark</hi> and the 1. you may find it, <hi>viz. What ſhall therefore the Lord of the Vineyard do? he will come and deſtroy the Husband-men, and will give the Vineyard unto others.</hi> Theſe Conſiderations made our Bleſſed Saviour weep and mourn over <hi>Jeruſalem,</hi> declaring his often willingneſs to have gathered them together but they would not; meaning by
+<pb n="8" facs="tcp:31818:5"/>the City the People that were its Inhabi<g ref="char:EOLhyphen"/>tants: grieved that thoſe upon whom the Light of his Countenance had ſo often ſhi<g ref="char:EOLhyphen"/>ned, ſhould fall away or obſtinately refuſe to hear his voice, or Reverence him the Son of their Lord and undoubted Heir of the Vineyard: and ſure it muſt be no ſmall grief that cou'd draw tears from the Son of God, whoſe Eyes were dry: under an Agony whoſe pain was even beyond the expreſſion of Angels: and when the rich Redeeming Blood flowed from his precious Wounds: not all the mocks and ſcorns, the ſcourging and the thorny Crown, which made as many Wounds as it had ſharpneſs cou'd do what the Sins of ingratefull Man did.</p>
+            <p>And ah! how many Chriſtians, or ſuch as profeſs themſelves to be ſo, are there that exceed the ſtony-hearted <hi>Jews?</hi> who by their Sins crucifie the Son of God afreſh; and put him to an open ſhame; refuſing in this their day when the Light of the Goſpel ſhines a<g ref="char:EOLhyphen"/>mongſt them bright as the morning Star, to lay hold of the acceptable time of returning to do their firſt Works, though they know the dreadfull threatning that ends it if they refuſe, <hi>viz. Remember from whence thou art fallen and repent, and do the firſt works or elſe
+<pb n="9" facs="tcp:31818:5"/>I will come unto you quickly, and remove thy Candleſtick out of its place.</hi> Rev. 2.5. Where alaſs! are now the ſeven once flouriſhing Churches of <hi>Aſia</hi> planted by the very A<g ref="char:EOLhyphen"/>poſtles themſelves, under the immediate Revelation of the Divine Spirit? Alaſs! their Beauty is faded like the Graſs that withers before a ſcorching Sun, and now for Beau<g ref="char:EOLhyphen"/>ty they have aſhes, and what but luke<g ref="char:EOLhyphen"/>warmneſs and neglect of holy Duties, Ani<g ref="char:EOLhyphen"/>moſities and Contentions brought them thus low, and shrouded their luſtre with a Man<g ref="char:EOLhyphen"/>tle of Darkneſs. O conſider this all you that would be accounted wiſe, and lay it to heart whilſt it is yet to day, and think with your ſelves though God's Patience and Long-ſuffering, forbear to ſtrike the Blow; yet without Repentance we cannot expect for ever to eſcape the effects of his Anger, which the longer delayed the heavier it falls in the end. We ſee that when the cry of <hi>Sodom</hi>'s Sins had reacht up to Heaven, yet God delay'd his Vengeance, and kept back the flaming Cattaracts of Heaven till he came down to ſee whether it was altogether ſo or not, as you may find it in <hi>Gen.</hi> 19. yet this delay turned not away his Anger for ever, dread Event, though his mercy extend<g ref="char:EOLhyphen"/>ed to an infinite degree to the ſaving of thoſe
+<pb n="10" facs="tcp:31818:6"/>wicked Nations for the ſake of ten Righte<g ref="char:EOLhyphen"/>ous: but when they were not to be found, nor any ſign of Repentance or Remorſe ap<g ref="char:EOLhyphen"/>peared, the floud gates of Fire were ſet open till they were conſumed with ſtreams of burning Sulphure. Nor is there any thing can diſarm his Vengeance but a hearty and unfeigned ſorrow for Sin, a ſerious Repen<g ref="char:EOLhyphen"/>tance, and a turning away from our Iniqui<g ref="char:EOLhyphen"/>ties even in this the day that he hath given us to make our peace and reconciliation with him. O then let us not put off our Re<g ref="char:EOLhyphen"/>pentance day by day, but being forewar<g ref="char:EOLhyphen"/>ned by a greater than <hi>Jonah:</hi> let us at leaſt be wiſe as the <hi>Ninnevites</hi> to turn whilſt we have ſpace from our Sins, that we may find mercy; for God reſiſteth the proud and ex<g ref="char:EOLhyphen"/>alteth the lowly and meek, and indeed hu<g ref="char:EOLhyphen"/>miliation and a godly ſorrow for ſin turns the very edge of his Anger: for when the Children of <hi>Iſrael</hi> had committed that great Sin of forſaking their living ſtrength, and made to themſelves a golden Calf in <hi>Horeb</hi> like to the Gods of <hi>Egypt:</hi> they mourned and no Man put on his Ornament, for the Lord had ſaid unto <hi>Moſes, ſay unto the Chil<g ref="char:EOLhyphen"/>dren of</hi> Iſrael, <hi>ye are a ſtiff-necked People; I will come up unto thee in a moment and conſume thee, therefore now put off thy Ornaments from
+<pb n="11" facs="tcp:31818:6"/>thee that I may know what to do unto thee.</hi> Ex<g ref="char:EOLhyphen"/>od. 33.4.5. And this alone cou'd move compaſſion in the heavenly mind, when ſo ſenſibly provoked by ſo great an affront ſo quickly offered the Divine Majeſty, who had wrought ſuch Wonders for their ſake in <hi>Egypt,</hi> and brought them out of a Bondage they long had groaned and laboured under with ſo ſtrong a hand as made the World a<g ref="char:EOLhyphen"/>mazed; for which <hi>Moſes</hi> upraids them with the worſt of Ingratitude in the 32 of <hi>Exod. ver.</hi> 18. <hi>Of the Rock ſays he, that begat thee, thou art unmindfull, and haſt forgotten God that formed thee:</hi> and in verſe 13. <hi>But Jeſſurun waxed fat and kicked,</hi> thou art grown thick, thou art covered with fatneſs; and then he forſook God which made him, and lightly eſteemed the Rock of his Salvation. This indeed was the caſe of the <hi>Jews,</hi> for when they had long peace and plenty, they too frequently forgot God, and followed the fooliſh Imaginations of their own Hearts: and this is too ſadly the caſe of many pro<g ref="char:EOLhyphen"/>feſſing Chriſtianity who ſeldom look up to Heaven in their proſperous day, but buſie themſelves in the affairs of the lower World till the Evil day overtake them at unawares, and then perhaps, the words of the Prophet <hi>Hoſea,</hi> may be verified in them, <hi>viz.</hi> they
+<pb n="12" facs="tcp:31818:7"/>(ſaith the Lord) <hi>howl and roar upon their Beds and do not call upon me in their heart.</hi> Hoſ. 7.14. or if they did, only in the time when diſtreſs and anguiſh comes upon them, how juſtly might they expect to hear the words of the Prophet ſounding in their ears? viz. <hi>What have I to do with thee, O Joram? get thee to the Prophets of thy Father and Mother,</hi> 2. <hi>Kings.</hi> 3. to pleaſure and aduantages that in your proſperous days you purſued, and re<g ref="char:EOLhyphen"/>quire them if they are able to help you; for true it is as the Prophet expreſſes, <hi>When Gods Judgments are abroad the Nations will learn Righteouſneſs;</hi> yet far better and more ac<g ref="char:EOLhyphen"/>ceptable it is, to take the Counſel of the Wiſe Man, <hi>viz. Provide thee of a Medicine before the fear come, and examine thy ſelf before Judgment, and ſo ſhalt thou find propitiation (or Acceptance) in the ſight of God.</hi> Eccleſ. 8.18. taking care that your Hearts be not made heavy with eating and drinking, and the cares of this Life, and that day come ſud<g ref="char:EOLhyphen"/>denly upon you; the day of trouble and of tryal, a day of tribulation and anguiſh: leaſt you faint in the way, and find your Confidence but vain. <hi>Labour then whilſt it is day, leaſt the night come on wherein no Man can work: labour to work out your Salvation with fear and trembling, and to run with chear<g ref="char:EOLhyphen"/>fulneſs
+<pb n="13" facs="tcp:31818:7"/>the Race that is ſet before you; be ſober and vi<g ref="char:EOLhyphen"/>gilant, and ever be preſſing forwards towards the mark of your high Calling,</hi> leaſt another ſtep in and take your Crown. Remember at all times what Chriſt hath done and ſuffe<g ref="char:EOLhyphen"/>red for you, and how in return for ſuch tranſcendent goodneſs he expects all your Service, and will not value the price of his precious Blood at ſo low a rate as to have you divide its merits with the intreſt of the World: for he that will be his Diſciple muſt deny himſelf and take up his Croſs and follow him, he muſt crucifie himſelf to worldly Luſts and Affections, and wholly devote himſelf to his Service, who is the beſt Ma<g ref="char:EOLhyphen"/>ſter, and altogether able to reward thoſe that truly ſerve him, not with corruptible things a Silver and Gold, but with Eternal Life and endleſs Joys: and although Bo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Afflictions ſhould await you in every City, be not thou aſhamed of the Teſti<g ref="char:EOLhyphen"/>mony of our Lord, but conſider and com<g ref="char:EOLhyphen"/>fort your ſelf with the promiſe he makes to thoſe that ſhall ſuffer affliction for his ſake, viz. <hi>Bleſſed are they that are perſecuted for my names ſake, for theirs is the Kingdom of Hea<g ref="char:EOLhyphen"/>ven.</hi> Mat. 5.10.</p>
+            <pb n="14" facs="tcp:31818:8"/>
+            <p>And in this caſe, as St. <hi>Auguſtine</hi> truly ſaith, Though we labour in a boiſterous Sea, yet thou, Lord, art our Pilot and ſteer<g ref="char:EOLhyphen"/>eſt our courſe between <hi>Scylla</hi> and <hi>Caribdis,</hi> ſo that both dangers eſcaped, we ſhall at length arrive at our Port ſecure. And St. <hi>Hierome</hi> affirms, That miſerable is his felicity who was never thought worthy to wreſtle with miſery, by which contention honour is obtained: for we cannot be true Souldi<g ref="char:EOLhyphen"/>ers under his Banner who ſuffered ſo much for us when we lay in darkneſs and the ſha<g ref="char:EOLhyphen"/>dow of death, naked and helpleſs in our ſelves; that he might raiſe us to a ſtate of happineſs, and become the victorious Cap<g ref="char:EOLhyphen"/>tain of our Salvation, and make us Co-heirs with himſelf of the Kingdom; for he (<hi>viz.</hi> God) <hi>hath delivered us from the power of D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rkneſs; and tranſlated into the Kingdom of his Son,</hi> &amp;c. Col. 1.13. and again, <hi>I appoint you a Kingdom as my Father hath appointed me,</hi> Luke, 22.29. is a Kingdom then, and one more valuable than all the Kingdoms upon Earth, or ten thouſand Worlds, not worth our utmoſt regard? when for a ſmall corner of the Earth, or for a little poſſeſſion, Men uſe ſuch diligence and induſtry; and rather than forgoe it, will leave no ways untried, ſpare no pains nor coſt, but ſollicite all their
+<pb n="15" facs="tcp:31818:8"/>friends to aid them in the aquirement, take painfull Journeys, and paſs over reſtleſs nights; and yet for Heaven how little re<g ref="char:EOLhyphen"/>gard moſt have! where they may, if they truly endeavour for it, be ſure to have an endleſs Kingdom, furniſhed to their hands with Glories unſpeakable; wherein is the holy and heavenly <hi>Jeruſalem,</hi> which ſhineth with Glory: the glorious Church Triumphant, made up of Saints, Martyrs and Confeſſors, united in eternal and unſeparable Union un<g ref="char:EOLhyphen"/>der their Head Chriſt Jeſus, God bleſſed for evermore, who wipes all tears away from their Eyes, and they baniſh thence the voice of Mourning, with Songs and Hallelujahs of Praiſes and Thanks.</p>
+            <p>O that Men wou'd be wiſe and conſider this, and not like <hi>Jeruſalem,</hi> ſhut the Ears of their underſtanding, not to know the things that belong to their peace till a blindneſs of Ignorance and Error hide them from them; for Sin even in others, to all good men is grie<g ref="char:EOLhyphen"/>vous and grieves them at the heart, it was that which deſtroy'd the happineſs of our firſt Parents in Paradiſe, and defaced the Image of Heaven ſtamp'd lively on them. 'Twas Sin that made God repent that he had mad. Man, and to grieve him at the
+<pb n="16" facs="tcp:31818:9"/>very heart, to a degree of deſtroying all but <hi>Noah</hi> and his Family, by bringing a uni<g ref="char:EOLhyphen"/>verſal Deluge on the Face of the Earth: 'twas Sin that made him drive out the <hi>Ca<g ref="char:EOLhyphen"/>naanites</hi> from the Land: 'twas Sin that made the Prophet <hi>Jeremiah</hi> cry out, O that my head was water and my eyes a Fountain of tears, that he might weep day and night for the Sins of his People; and it was the Sins of the <hi>Jews</hi> and their blinded Obſtinacy which made our bleſſed Saviour mourn over <hi>Jeruſalem</hi> in the words of the Text, and for which they were ſoon after rooted out and ſcattered to the four Winds of Heaven. Nor have theſe Nations been inſenſible of the Divine diſpleaſure in the many Judg<g ref="char:EOLhyphen"/>ments that have fallen heavy upon it, even in our days, brought down from Heaven by the cry of thoſe Sins that have pierced the Clouds and enter the Ears of the Almighty; and yet that Monſter which has cauſed ſo much Miſchief in the World, is ſtill court<g ref="char:EOLhyphen"/>ed, embraced and continued under guilded and diſguiſed names of momentary Pleaſure and Profit.</p>
+            <p>What then remains, but that if we con<g ref="char:EOLhyphen"/>tinue in Sin and go on in the ways of Iniqui<g ref="char:EOLhyphen"/>ty, but we may juſtly expect the wrath of
+<pb n="17" facs="tcp:31818:9"/>an Angry God to fall heavy on us, before whoſe Anger all the Sons of Men are but a ſtubble before the devouring flame.</p>
+            <p>Take heed then to your ſelves, that your Hearts be not made heavy with eating and drinking, and the cares of this Life, and that day come upon you unawares; but whilſt it is to day hear his voice that calls upon you, wooes and invites you to repent and turn from the evil of your ways, and think it time with the Prodigal Son to return from your wanderings in the paths of wick<g ref="char:EOLhyphen"/>edneſs, and by an unfeigned Repentance move your Heavenly Father to take com<g ref="char:EOLhyphen"/>paſſion on you, who is eaſie to be intreat<g ref="char:EOLhyphen"/>ed; and hath ſworn by himſelf, ſaying, I will not the death of a Sinner, but I de<g ref="char:EOLhyphen"/>ſire he be converted and live. Yield then to the good motions of his holy Spirit, and grieve him not by ſinning till the day of Grace be over-paſt, by ſaying it is not yet eaſie, not yet convenient to leave your Sins, your darling Luſts, but you will doe it hereafter; when you know not that your Life may be prolonged another day, and then as Death leaves you Judgment will find you; for look, what a Man ſoweth that ſhall he reap, he that ſoweth in the fleſh ſhall of the fleſh
+<pb n="18" facs="tcp:31818:10"/>reap corruption; he that ſoweth of the Spi<g ref="char:EOLhyphen"/>rit ſhall of the Spirit reap everlaſting Life, <hi>Gal.</hi> 6.8. and as the wiſe Man ſays, Though the way of Sinners is paved with ſtones, at the end thereof is Hell, Darkneſs and Pains, <hi>Eccl.</hi> 12.10. and holy <hi>David</hi> affirmeth that God rewardeth every Man according to hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Works. <hi>Pſal.</hi> 61.12. and if the Righteous ſcarcely be ſaved, where then ſhall the Sinner and ungodly appear!</p>
+            <p>Oh that Men would then be wiſe and conſider their latter end, and not with the fooliſh Virgins want Oyl in their Lamps when the Bridegroom is entering into his Chamber, but always be provided leaſt they be everlaſtingly ſhut out from Bliſs, and from beholding the Face of him in whoſe preſence is fulneſs of Joy and Pleaſures for euermore. Oh take the wiſe man's Counſel while it is to day, <hi>viz.</hi> Make no tarrying to turn unto the Lord, and put not off from day to day, for ſuddenly ſhall his wrath break forth, and in thy ſecurity ſhalt thou be deſtroy'd, <hi>Eccl.</hi> 5.7.</p>
+            <pb n="19" facs="tcp:31818:10"/>
+            <p>Let us then take hold of the acceptable day, and turn to him before it be too late, that he may turn away the fierceneſs of his Anger and ſhine upon us with the light of his Countenance, and be mercifull to us in turning our hearts from the power of Satan, to him the living God, that how<g ref="char:EOLhyphen"/>ever we are afflicted in this World, we may be happy in that which is to come, through the Merits of Jeſus Chriſt. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="20" facs="tcp:31818:11"/>
+            <head>THE PRAYER.</head>
+            <p>
+               <hi>O</hi> Lord God, moſt Holy, Glo<g ref="char:EOLhyphen"/>rious, Righteous and Ever<g ref="char:EOLhyphen"/>laſting King, who ſheweſt Mercy un<g ref="char:EOLhyphen"/>to thouſands; and though thou haſt declared thou wilt by no means ſpare the Guilty, yet the broken and contrite Heart thou wilt not deſpiſe; nor in any wiſe caſt out poor Sinners that flye to thee for Succour and Relief. Pardon us and have mercy upon us, that with ſhame and confuſion of Face proſtrate our Souls and Bodies before thee, imploring thy divine aſſiſtance to enable and enlighten us, that ha<g ref="char:EOLhyphen"/>ving
+<pb n="21" facs="tcp:31818:11"/>a true ſight and thorough ſenſe of our Sins that we may abhor and deteſt them; making it our endea<g ref="char:EOLhyphen"/>vour to walk in the Paths of Truth and Uprightneſs, that we may turn away thy anger, and eſcape the hea<g ref="char:EOLhyphen"/>vy Judgments that we have moſt juſtly deſerved for all the Sins which we have committed againſt thy divine Majeſty. O ſpare this ſinfull Nati<g ref="char:EOLhyphen"/>on and People for thy mercies ſake, that we may ever have cauſe to adore and magnifie thy Goodneſs World without end, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:31818:12"/>
+            <head>Books Printed for and Sold by <hi>William Thackeray</hi> at the <hi>Angel</hi> in <hi>Duck-lane</hi> near <hi>Weſt-ſmithfield.</hi>
+            </head>
+            <list>
+               <head>Theſe three are Three pence a piece.</head>
+               <item>CHriſtian<hi>'s</hi> Comfort.</item>
+               <item>Dives <hi>and</hi> Lazarus.</item>
+               <item>Danger of deferring Repentance.</item>
+            </list>
+            <list>
+               <head>Theſe are Two pence a piece.</head>
+               <item>Godly Man<hi>'s</hi> Gain.</item>
+               <item>Great Aſſize.</item>
+               <item>Short and Sure way.</item>
+               <item>Sinners Sobs.</item>
+               <item>Swearers and Drunkards Doom.</item>
+               <item>A Serious Call to the Unconverted.</item>
+               <item>The Touchſtone of a Chriſtian.</item>
+               <item>The ready way to get Riches.</item>
+               <item>Every man<hi>'s</hi> Duty, <hi>and</hi> the Godly man's Practice.</item>
+               <pb facs="tcp:31818:12"/>
+               <item>A Poſey of Prayers.</item>
+               <item>The Young man's Alarum.</item>
+               <item>
+                  <hi>Englands</hi> Golden Watch-bell.</item>
+               <item>Great <hi>Britain</hi>'s Warning-piece.</item>
+            </list>
+            <p>
+               <hi>Theſe are very good and uſefull Books of Divi<g ref="char:EOLhyphen"/>nity for theſe licentious Times, and may be all had at the aforeſaid Place.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="portrait">
+            <pb facs="tcp:31818:13"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of a crowned king, with sceptre in his right hand</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
